@@ -1,0 +1,1366 @@
+{
+    "redirect": null,
+    "products": [
+        {
+            "productId": "867",
+            "productName": "Huevos Grandes Blancos 12 un.",
+            "brand": "Cintazul",
+            "SkuData": [
+                "{\"867\":{\"ref_id\":\"302674\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302674",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "258": "258 Cocina en casa (repostería)",
+                "307": "307 Huevo Cintazul blanco 12 unidades",
+                "386": "386 Shortcut Huevos – Huevos tradicionales",
+                "444": "444 Todo para preparar un rico desayuno",
+                "1121": "1121 Fondo de Surtido - Santa Once 4 al 24-4-23",
+                "1336": "1336 Santa Once",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1363": "1363 NP Shortcut HUEVOS, MANTEQUILLA Y MANJAR",
+                "1401": "1401 Santa once",
+                "1402": "1402 NP Todo vacaciones pal bolsillo",
+                "1671": "1671 NP Arma tu Ensalada",
+                "1799": "1799 Alto Margen Junio",
+                "2499": "2499 MiCupon_Huevos",
+                "3432": "3432 Todas las ofertas del ciclo 2 + el FDM",
+                "3544": "3544 TODAS LAS OFERTAS DEL CICLO 4 + FDM",
+                "3775": "3775 ofertas de ciclo 4 del 16 al 22 enero +  FDM",
+                "3833": "3833 Todas las ofertas del 23 al 29 enero + FDM",
+                "4372": "4372  Todas las ofertas del ciclo 4 del 19 al 25 de marzo + LPM Marzo",
+                "4446": "4446 TODAS LAS OFERTAS DEL CICLO 1 DEL 26 AL 01 DE ABRIL + LPM"
+            },
+            "linkText": "huevos-grandes-blancos-cintazul-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "867",
+                    "name": "Huevos Grandes Blancos 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/162966/Huevos-grandes-blancos-12-un.jpg?v=637479989381300000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302674"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 2849,
+                                "ListPrice": 3669,
+                                "PriceWithoutDiscount": 3669,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "7505",
+            "productName": "Huevos Grandes Blancos 12 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"7505\":{\"ref_id\":\"1863083\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1863083",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "177": "177 Panes para acompañar",
+                "258": "258 Cocina en casa (repostería)",
+                "386": "386 Shortcut Huevos – Huevos tradicionales",
+                "399": "399 Productos seleccionados Cuisine&Co",
+                "414": "414 Huevo Grande Blanco 12U Cuisine&Co",
+                "426": "426 Productos seleccionados Cuisine&Co",
+                "777": "777 Todo Marca Propia",
+                "787": "Productos en Santa Isabel (MMPP) 787",
+                "829": "829 Productos seleccionados Cuisine&Co",
+                "1121": "1121 Fondo de Surtido - Santa Once 4 al 24-4-23",
+                "1219": "1219 Huevos CUISINE&CO",
+                "1221": "1221 Todos los productos Cuisine & CO",
+                "1336": "1336 Santa Once",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1358": "1358 Shortcut MMPP",
+                "1363": "1363 NP Shortcut HUEVOS, MANTEQUILLA Y MANJAR",
+                "1364": "1364 NP shortcut Febrero te conviene",
+                "1401": "1401 Santa once",
+                "1402": "1402 NP Todo vacaciones pal bolsillo",
+                "1418": "1418 NP Descto Colaborador 11 marzo",
+                "1420": "1420 Shortcut Cuisine&Co",
+                "1597": "1597 NP Reposteria en casa margenes",
+                "1618": "1618 NP Desayuno margenes",
+                "1671": "1671 NP Arma tu Ensalada",
+                "1673": "1673 Descto colaborador 2022",
+                "1894": "1894 CoupAA_6173n",
+                "2172": "2172 Desc Colaborador SISA",
+                "2276": "2276 TOP VENTA 100 - ACTUALIZADO",
+                "2499": "2499 MiCupon_Huevos",
+                "2731": "2731 Barra de proteínas Cuisine & Co",
+                "4167": "4167 MMPP ACEITE MARAVILLA CUISINE & CO",
+                "4190": "4190 CoupAA_202403B1_HUEVOS",
+                "4433": "4433 Descuento Colaborador Campaña MMPP N°1 2024"
+            },
+            "linkText": "huevos-grandes-blancos-bandeja-12-un-cuisine-and-co-1863083",
+            "items": [
+                {
+                    "itemId": "7505",
+                    "name": "Huevos Grandes Blancos 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/270062/Huevos-grandes-blancos-bandeja-12-un.jpg?v=638155461264900000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1863083"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 3419,
+                                "ListPrice": 3419,
+                                "PriceWithoutDiscount": 3419,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "870",
+            "productName": "Huevos Grandes Blancos 12 un.",
+            "brand": "Santa Marta",
+            "SkuData": [
+                "{\"870\":{\"ref_id\":\"302682\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302682",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "258": "258 Cocina en casa (repostería)",
+                "386": "386 Shortcut Huevos – Huevos tradicionales",
+                "1121": "1121 Fondo de Surtido - Santa Once 4 al 24-4-23",
+                "1158": "Todos los productos de Hora del Té 1158",
+                "1226": "1226 top 100 pedidos sisa.cl",
+                "1263": "1263 Mega Sisa.cl del 26/12 al 22/01",
+                "1305": "1305 Pan y para acompañar hasta",
+                "1336": "1336 Santa Once",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1363": "1363 NP Shortcut HUEVOS, MANTEQUILLA Y MANJAR",
+                "1401": "1401 Santa once",
+                "1402": "1402 NP Todo vacaciones pal bolsillo",
+                "1597": "1597 NP Reposteria en casa margenes",
+                "1671": "1671 NP Arma tu Ensalada",
+                "1894": "1894 CoupAA_6173n",
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevos-grandes-blancos-santa-marta-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "870",
+                    "name": "Huevos Grandes Blancos 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/192871/Huevos-grandes-blancos-Santa-Marta-12-unid.jpg?v=637859754619730000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302682"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 3599,
+                                "ListPrice": 3599,
+                                "PriceWithoutDiscount": 3599,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "15892",
+            "productName": "Huevos Blancos Grandes 12 un.",
+            "brand": "Yemita",
+            "SkuData": [
+                "{\"15888\":{\"ref_id\":\"302670\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302670",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1121": "1121 Fondo de Surtido - Santa Once 4 al 24-4-23",
+                "1336": "1336 Santa Once",
+                "1401": "1401 Santa once",
+                "1597": "1597 NP Reposteria en casa margenes",
+                "1618": "1618 NP Desayuno margenes",
+                "2009": "2009 Alto Margen Julio",
+                "2276": "2276 TOP VENTA 100 - ACTUALIZADO",
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevos-blancos-grandes-12-un-302670",
+            "items": [
+                {
+                    "itemId": "15888",
+                    "name": "Huevos Blancos Grandes 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/205293/Huevos-blancos-grandes-12-un.jpg?v=637940176392600000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302670"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 3419,
+                                "ListPrice": 3419,
+                                "PriceWithoutDiscount": 3419,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "7506",
+            "productName": "Huevos Grandes Color 12 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"7506\":{\"ref_id\":\"1863084\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1863084",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "386": "386 Shortcut Huevos – Huevos tradicionales",
+                "399": "399 Productos seleccionados Cuisine&Co",
+                "426": "426 Productos seleccionados Cuisine&Co",
+                "777": "777 Todo Marca Propia",
+                "787": "Productos en Santa Isabel (MMPP) 787",
+                "829": "829 Productos seleccionados Cuisine&Co",
+                "1121": "1121 Fondo de Surtido - Santa Once 4 al 24-4-23",
+                "1219": "1219 Huevos CUISINE&CO",
+                "1221": "1221 Todos los productos Cuisine & CO",
+                "1336": "1336 Santa Once",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1358": "1358 Shortcut MMPP",
+                "1363": "1363 NP Shortcut HUEVOS, MANTEQUILLA Y MANJAR",
+                "1401": "1401 Santa once",
+                "1402": "1402 NP Todo vacaciones pal bolsillo",
+                "1418": "1418 NP Descto Colaborador 11 marzo",
+                "1420": "1420 Shortcut Cuisine&Co",
+                "1597": "1597 NP Reposteria en casa margenes",
+                "1618": "1618 NP Desayuno margenes",
+                "1673": "1673 Descto colaborador 2022",
+                "1894": "1894 CoupAA_6173n",
+                "2172": "2172 Desc Colaborador SISA",
+                "2499": "2499 MiCupon_Huevos",
+                "2731": "2731 Barra de proteínas Cuisine & Co",
+                "4167": "4167 MMPP ACEITE MARAVILLA CUISINE & CO",
+                "4190": "4190 CoupAA_202403B1_HUEVOS",
+                "4433": "4433 Descuento Colaborador Campaña MMPP N°1 2024"
+            },
+            "linkText": "huevos-grandes-color-bandeja-12-un-cuisine-and-co-1863084",
+            "items": [
+                {
+                    "itemId": "7506",
+                    "name": "Huevos Grandes Color 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/270064/Huevos-grandes-color-bandeja-12-un.jpg?v=638155461275930000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1863084"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 3579,
+                                "ListPrice": 3579,
+                                "PriceWithoutDiscount": 3579,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "11671",
+            "productName": "Huevos Grandes de Gallina Libre  12 un.",
+            "brand": "Cintazul",
+            "SkuData": [
+                "{\"11669\":{\"ref_id\":\"1843237\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1843237",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "466": "466 Shortcut Huevos - Huevos de Gallina Libre",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1402": "1402 NP Todo vacaciones pal bolsillo",
+                "2009": "2009 Alto Margen Julio",
+                "2499": "2499 MiCupon_Huevos",
+                "3775": "3775 ofertas de ciclo 4 del 16 al 22 enero +  FDM",
+                "3833": "3833 Todas las ofertas del 23 al 29 enero + FDM",
+                "4372": "4372  Todas las ofertas del ciclo 4 del 19 al 25 de marzo + LPM Marzo",
+                "4446": "4446 TODAS LAS OFERTAS DEL CICLO 1 DEL 26 AL 01 DE ABRIL + LPM"
+            },
+            "linkText": "huevo-grande-de-gallina-libre-12-un-1843237",
+            "items": [
+                {
+                    "itemId": "11669",
+                    "name": "Huevos Grandes de Gallina Libre  12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/311327/Huevos-Grandes-de-Gallina-Libre--12-un.jpg?v=638319502851330000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1843237"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 3899,
+                                "ListPrice": 4749,
+                                "PriceWithoutDiscount": 4749,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "868",
+            "productName": "Huevos Grandes Color 12 un.",
+            "brand": "Cintazul",
+            "SkuData": [
+                "{\"868\":{\"ref_id\":\"302676\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302676",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "386": "386 Shortcut Huevos – Huevos tradicionales",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1402": "1402 NP Todo vacaciones pal bolsillo",
+                "1597": "1597 NP Reposteria en casa margenes",
+                "1799": "1799 Alto Margen Junio",
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevos-grandes-color-cintazul-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "868",
+                    "name": "Huevos Grandes Color 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/156625/Huevos-grandes-color-Cintazul-12-unid.jpg?v=637469296958970000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302676"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 3749,
+                                "ListPrice": 3749,
+                                "PriceWithoutDiscount": 3749,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "3163",
+            "productName": "Pack Medianos Huevos Extra Blancos 30 un.",
+            "brand": "Yemita",
+            "SkuData": [
+                "{\"3159\":{\"ref_id\":\"568747\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":30,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "568747",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "386": "386 Shortcut Huevos – Huevos tradicionales",
+                "1336": "1336 Santa Once",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1401": "1401 Santa once",
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "pack-mediano-blanco-30-un-yemita-2",
+            "items": [
+                {
+                    "itemId": "3159",
+                    "name": "Pack Medianos Huevos Extra Blancos 30 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/160320/Pack-mediano-huevo-extra-blanco-30-un.jpg?v=637469375233800000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "568747"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 8449,
+                                "ListPrice": 8449,
+                                "PriceWithoutDiscount": 8449,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "2620",
+            "productName": "Huevos Color Gallina Libre 12 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"2617\":{\"ref_id\":\"1729738\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1729738",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "182": "182 Cuisine&Co Menu Home SISA",
+                "399": "399 Productos seleccionados Cuisine&Co",
+                "426": "426 Productos seleccionados Cuisine&Co",
+                "466": "466 Shortcut Huevos - Huevos de Gallina Libre",
+                "777": "777 Todo Marca Propia",
+                "787": "Productos en Santa Isabel (MMPP) 787",
+                "829": "829 Productos seleccionados Cuisine&Co",
+                "1219": "1219 Huevos CUISINE&CO",
+                "1221": "1221 Todos los productos Cuisine & CO",
+                "1336": "1336 Santa Once",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1358": "1358 Shortcut MMPP",
+                "1363": "1363 NP Shortcut HUEVOS, MANTEQUILLA Y MANJAR",
+                "1364": "1364 NP shortcut Febrero te conviene",
+                "1401": "1401 Santa once",
+                "1402": "1402 NP Todo vacaciones pal bolsillo",
+                "1418": "1418 NP Descto Colaborador 11 marzo",
+                "1420": "1420 Shortcut Cuisine&Co",
+                "1618": "1618 NP Desayuno margenes",
+                "1673": "1673 Descto colaborador 2022",
+                "1799": "1799 Alto Margen Junio",
+                "1894": "1894 CoupAA_6173n",
+                "2172": "2172 Desc Colaborador SISA",
+                "2499": "2499 MiCupon_Huevos",
+                "2731": "2731 Barra de proteínas Cuisine & Co",
+                "4167": "4167 MMPP ACEITE MARAVILLA CUISINE & CO",
+                "4433": "4433 Descuento Colaborador Campaña MMPP N°1 2024"
+            },
+            "linkText": "huevos-color-gallina-libre-12-un-cuisine-and-co-1729738",
+            "items": [
+                {
+                    "itemId": "2617",
+                    "name": "Huevos Color Gallina Libre 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/336775/Huevos-Color-Gallina-Libre-12-un.jpg?v=638386803623900000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1729738"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 4459,
+                                "ListPrice": 4459,
+                                "PriceWithoutDiscount": 4459,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "2543",
+            "productName": "Huevos Grandes Color 12 un.",
+            "brand": "La Granja",
+            "SkuData": [
+                "{\"2540\":{\"ref_id\":\"1649052\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1649052",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "466": "466 Shortcut Huevos - Huevos de Gallina Libre",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "2009": "2009 Alto Margen Julio",
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevo-g-l-12-un-color-la-granj-2",
+            "items": [
+                {
+                    "itemId": "2540",
+                    "name": "Huevos Grandes Color 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/159469/Huevo-grande-La-Granja-color-12-unid.jpg?v=637469365962270000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1649052"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 4659,
+                                "ListPrice": 4659,
+                                "PriceWithoutDiscount": 4659,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "865",
+            "productName": "Huevos Extra Blancos 12 un.",
+            "brand": "Cintazul",
+            "SkuData": [
+                "{\"865\":{\"ref_id\":\"302673\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302673",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "386": "386 Shortcut Huevos – Huevos tradicionales",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1799": "1799 Alto Margen Junio",
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevos-extra-blancos-cintazul-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "865",
+                    "name": "Huevos Extra Blancos 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/156619/Huevos-extra-blancos-Cintazul-12-unid.jpg?v=637469296902500000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302673"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 3749,
+                                "ListPrice": 3749,
+                                "PriceWithoutDiscount": 3749,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "15518",
+            "productName": "Huevos Omega 3 Plus 6 un.",
+            "brand": "Omega 3",
+            "SkuData": [
+                "{\"15514\":{\"ref_id\":\"1500041\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":6,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1500041",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevos-plus-omega-3-6-unid-1500041",
+            "items": [
+                {
+                    "itemId": "15514",
+                    "name": "Huevos Omega 3 Plus 6 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/200378/Huevos-Plus-Omega-3-6-unid.jpg?v=637914601856400000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1500041"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 2199,
+                                "ListPrice": 2199,
+                                "PriceWithoutDiscount": 2199,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "871",
+            "productName": "Huevos Grandes Color 12 un.",
+            "brand": "Santa Marta",
+            "SkuData": [
+                "{\"871\":{\"ref_id\":\"302683\",\"cart_limit\":\"2\",\"allow_notes\":false,\"allow_substitute\":false,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302683",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "386": "386 Shortcut Huevos – Huevos tradicionales",
+                "1121": "1121 Fondo de Surtido - Santa Once 4 al 24-4-23",
+                "1305": "1305 Pan y para acompañar hasta",
+                "1336": "1336 Santa Once",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1363": "1363 NP Shortcut HUEVOS, MANTEQUILLA Y MANJAR",
+                "1401": "1401 Santa once",
+                "1402": "1402 NP Todo vacaciones pal bolsillo",
+                "1597": "1597 NP Reposteria en casa margenes",
+                "1894": "1894 CoupAA_6173n",
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevos-grandes-color-santa-marta-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "871",
+                    "name": "Huevos Grandes Color 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/192256/Huevos-Grandes-Color-Santa-Marta-12-unid.jpg?v=637849544608770000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302683"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 3769,
+                                "ListPrice": 3769,
+                                "PriceWithoutDiscount": 3769,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "31809",
+            "productName": "Huevos Extra Grande Color Cuisine & Co 20 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"31827\":{\"ref_id\":\"1991097\",\"cart_limit\":\"12\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":20,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1991097",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevo-ext-grande-color-20-u-cuisine-and-co-1991097",
+            "items": [
+                {
+                    "itemId": "31827",
+                    "name": "Huevos Extra Grande Color Cuisine & Co 20 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/352477/Huevo-Extra-Grande-Color-Cuisine---Co-20-un.jpg?v=638459352978130000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1991097"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 6599,
+                                "ListPrice": 6599,
+                                "PriceWithoutDiscount": 6599,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productId": "3087",
+            "productName": "Huevos de Codorniz 24 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"3083\":{\"ref_id\":\"1819841\",\"cart_limit\":\"2\",\"allow_notes\":false,\"allow_substitute\":false,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":24,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1819841",
+            "categoriesIds": [
+                "/1/19/693/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Codorniz/"
+            ],
+            "productClusters": {
+                "182": "182 Cuisine&Co Menu Home SISA",
+                "399": "399 Productos seleccionados Cuisine&Co",
+                "426": "426 Productos seleccionados Cuisine&Co",
+                "777": "777 Todo Marca Propia",
+                "787": "Productos en Santa Isabel (MMPP) 787",
+                "829": "829 Productos seleccionados Cuisine&Co",
+                "910": "910 Shortcut Huevos - Huevos de codorniz",
+                "1219": "1219 Huevos CUISINE&CO",
+                "1221": "1221 Todos los productos Cuisine & CO",
+                "1351": "1351 NP Shortcut LACTEOS",
+                "1358": "1358 Shortcut MMPP",
+                "1418": "1418 NP Descto Colaborador 11 marzo",
+                "1420": "1420 Shortcut Cuisine&Co",
+                "1673": "1673 Descto colaborador 2022",
+                "2172": "2172 Desc Colaborador SISA",
+                "2499": "2499 MiCupon_Huevos",
+                "2731": "2731 Barra de proteínas Cuisine & Co",
+                "4167": "4167 MMPP ACEITE MARAVILLA CUISINE & CO",
+                "4433": "4433 Descuento Colaborador Campaña MMPP N°1 2024"
+            },
+            "linkText": "huevos-de-codorniz-24-un-cuisine-and-co-1819841",
+            "items": [
+                {
+                    "itemId": "3083",
+                    "name": "Huevos de Codorniz 24 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/270059/Huevos-de-codorniz-24-un.jpg?v=638155461246070000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1819841"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 2979,
+                                "ListPrice": 2979,
+                                "PriceWithoutDiscount": 2979,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "14543",
+            "productName": "Huevos Grandes Color 12 un.",
+            "brand": "Yemita",
+            "SkuData": [
+                "{\"14538\":{\"ref_id\":\"302671\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302671",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1597": "1597 NP Reposteria en casa margenes",
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevos-grandes-color-12-un-302671",
+            "items": [
+                {
+                    "itemId": "14538",
+                    "name": "Huevos Grandes Color 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/198849/Huevos-grandes-color-12-un.jpg?v=637914588729030000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302671"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 3859,
+                                "ListPrice": 3859,
+                                "PriceWithoutDiscount": 3859,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "31808",
+            "productName": "Huevos Extra Color Gallina Libre Cuisine & Co 20 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"31829\":{\"ref_id\":\"1991096\",\"cart_limit\":\"12\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":20,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1991096",
+            "categoriesIds": [
+                "/1/19/884/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina Libre/"
+            ],
+            "productClusters": {
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevo-ext-col-gall-libre-20-u-cuisine-and-co-1991096",
+            "items": [
+                {
+                    "itemId": "31829",
+                    "name": "Huevos Extra Color Gallina Libre Cuisine & Co 20 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/352476/Huevo-Extra-Color-Gallina-Libre-Cuisine---Co-30-un.jpg?v=638459352965230000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1991096"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 7749,
+                                "ListPrice": 7749,
+                                "PriceWithoutDiscount": 7749,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productId": "31807",
+            "productName": "Huevos Mediano Blanco Cuisine & Co 30 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"31828\":{\"ref_id\":\"1991094\",\"cart_limit\":\"12\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":30,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1991094",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevo-mediano-blanco-30-u-cuisine-and-co-1991094",
+            "items": [
+                {
+                    "itemId": "31828",
+                    "name": "Huevos Mediano Blanco Cuisine & Co 30 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/352471/Huevo-Mediano-Blanco-Cuisine---Co-30-un.jpg?v=638459352943430000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1991094"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 7999,
+                                "ListPrice": 7999,
+                                "PriceWithoutDiscount": 7999,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productId": "14933",
+            "productName": "Huevos Grandes Color Gallinas de Libre Pastoreo 12 un.",
+            "brand": "Cintazul",
+            "SkuData": [
+                "{\"14929\":{\"ref_id\":\"1904094\",\"cart_limit\":\"2\",\"allow_notes\":false,\"allow_substitute\":false,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1904094",
+            "categoriesIds": [
+                "/1/19/884/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina Libre/"
+            ],
+            "productClusters": {
+                "1799": "1799 Alto Margen Junio",
+                "2009": "2009 Alto Margen Julio",
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevos-grandes-color-gallinas-de-libre-pastoreo-12-un-1904094",
+            "items": [
+                {
+                    "itemId": "14929",
+                    "name": "Huevos Grandes Color Gallinas de Libre Pastoreo 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/208071/Huevos-grandes-color-gallinas-de-libre-pastoreo-12-un.jpg?v=637965196737030000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1904094"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 5139,
+                                "ListPrice": 5139,
+                                "PriceWithoutDiscount": 5139,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "12509",
+            "productName": "Huevos de Codorniz 24 un.",
+            "brand": "Talagante",
+            "SkuData": [
+                "{\"12505\":{\"ref_id\":\"507518\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":24,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "507518",
+            "categoriesIds": [
+                "/1/19/693/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Codorniz/"
+            ],
+            "productClusters": {
+                "910": "910 Shortcut Huevos - Huevos de codorniz",
+                "1415": "1415 Mype - pequeños productores",
+                "2042": "2042 Nuestros Productores 2da quincena",
+                "2499": "2499 MiCupon_Huevos",
+                "3800": "3800  MYPES"
+            },
+            "linkText": "huevo-de-codorniz-talagante-24-unid-507518",
+            "Origen": [
+                "Mype"
+            ],
+            "items": [
+                {
+                    "itemId": "12505",
+                    "name": "Huevos de Codorniz 24 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/191250/Huevo-de-codorniz-Talagante-24-unid.jpg?v=637823452956630000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "507518"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 2979,
+                                "ListPrice": 2979,
+                                "PriceWithoutDiscount": 2979,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo",
+                "Origen"
+            ],
+            "Producto Nuevo": [
+                "Producto Antiguo"
+            ]
+        },
+        {
+            "productId": "24595",
+            "productName": "Huevo Yemita Extra Blanco 18 un.",
+            "brand": "Yemita",
+            "SkuData": [
+                "{\"24607\":{\"ref_id\":\"1967857\",\"cart_limit\":\"12\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":18,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1967857",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "2499": "2499 MiCupon_Huevos"
+            },
+            "linkText": "huevo-yemita-extra-blanco-18un-1967857",
+            "items": [
+                {
+                    "itemId": "24607",
+                    "name": "Huevo Yemita Extra Blanco 18 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://santaisabel.vtexassets.com/arquivos/ids/350822/Huevo-Yemita-Extra-Blanco-18-un.jpg?v=638452638107700000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1967857"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "santaisabel",
+                            "commertialOffer": {
+                                "Price": 5549,
+                                "ListPrice": 5549,
+                                "PriceWithoutDiscount": 5549,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "recordsFiltered": 21,
+    "operator": "and"
+}

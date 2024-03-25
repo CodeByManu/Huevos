@@ -1,0 +1,2438 @@
+{
+    "redirect": null,
+    "products": [
+        {
+            "productId": "6591",
+            "productName": "Huevos Grandes Blancos 12 un.",
+            "brand": "Santa Marta",
+            "SkuData": [
+                "{\"6679\":{\"ref_id\":\"302682\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302682",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "7905": "7905 Shortcut Huevos y Mantequillas arbol Spid 35",
+                "8865": "Shortcut Huevos - Huevos blancos 8865",
+                "10308": "10308 Todo Ciclo 4 + Cat fdm",
+                "10797": "10797 MiCupon_Huevos",
+                "11132": "11132  CAT FDM Completo",
+                "11143": "11143 Manjar, cremas y huevos FDM",
+                "11497": "11497 Todas las ofertas del ciclo 2 y FDM",
+                "11655": "11655 Todas las ofertas del ciclo 3 y FDM",
+                "13154": "13154 Todas las ofertas del FDM Diciembre",
+                "13218": "13218 Todas las ofertas de ciclo + FDM Enero 2024",
+                "13307": "13307 FDM + Ciclo desde 11 al 15 enero 2024",
+                "13394": "13394  Todo Ciclo + FDM 18 al 22 ene 2024",
+                "13403": "13403 - TODO PRIME CICLO 4",
+                "13411": "13411 Huevo grande blanco Santa Marta 12un",
+                "13514": "13514 - FDM + CICLO",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevos-grandes-blancos-santa-marta-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "6679",
+                    "name": "Huevos Grandes Blancos 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/478879/Huevos-grandes-blancos-Santa-Marta-12-unid.jpg?v=637859754511200000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302682"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 3629,
+                                "ListPrice": 3629,
+                                "PriceWithoutDiscount": 3629,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "56769",
+            "productName": "Huevos Grandes Color 12 un.",
+            "brand": "La Granja",
+            "SkuData": [
+                "{\"57085\":{\"ref_id\":\"1649052\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1649052",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "10308": "10308 Todo Ciclo 4 + Cat fdm",
+                "10797": "10797 MiCupon_Huevos",
+                "11132": "11132  CAT FDM Completo",
+                "11143": "11143 Manjar, cremas y huevos FDM",
+                "11497": "11497 Todas las ofertas del ciclo 2 y FDM",
+                "11655": "11655 Todas las ofertas del ciclo 3 y FDM",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-g-l-12-un-color-la-granj-2",
+            "items": [
+                {
+                    "itemId": "57085",
+                    "name": "Huevos Grandes Color 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/409706/Huevo-grande-La-Granja-color-12-unid.jpg?v=637469366424770000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1649052"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 4699,
+                                "ListPrice": 4699,
+                                "PriceWithoutDiscount": 4699,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "6586",
+            "productName": "Huevos Grandes Color Omega 3 12 un.",
+            "brand": "Omega 3",
+            "SkuData": [
+                "{\"6674\":{\"ref_id\":\"302687\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302687",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "6265": "MYPE Huevos mantequillas Perecibles 6265",
+                "8867": "Shortcut Huevos - Huevos codorniz y especiale 8867",
+                "10797": "10797 MiCupon_Huevos"
+            },
+            "linkText": "huevos-grandes-color-omega-3-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "6674",
+                    "name": "Huevos Grandes Color Omega 3 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/416176/Huevos-grandes-color-Omega-3-12-unid.jpg?v=637479989943700000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302687"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 3629,
+                                "ListPrice": 3629,
+                                "PriceWithoutDiscount": 3629,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "88016",
+            "productName": "Huevos Grandes de Gallina Libre  12 un.",
+            "brand": "Cintazul",
+            "SkuData": [
+                "{\"88287\":{\"ref_id\":\"1843237\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1843237",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "10797": "10797 MiCupon_Huevos",
+                "11962": "11962 Manjar, cremas y huevos",
+                "11963": "11963 Todas las ofertas del fdm",
+                "12186": "12186 Todas las ofertas Ciclo 2 + FDM",
+                "12291": "12291  Ciclo Todas las ofertas + FDM",
+                "12384": "12384 Todo ciclo + FDM",
+                "12614": "12614  Ciclo + FDM 19 AL 25 dic",
+                "12812": "12812-CICLO 2 - Todas las ofertas del ciclo y FDM",
+                "12915": "12915  Todo ciclo + FDM 13 al 18 sept",
+                "13589": "13589 FDM FEBRERO CICLO 1 desde 01 al 05 febr 2024",
+                "13596": "13596 - LPM Febrero",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch",
+                "13707": "13707 Ciclo  LPM FEBRERO + CICLO 2",
+                "13842": "13842 LPM FEBRERO + CICLO 3",
+                "13980": "13980 LPM FEBRERO + CICLO 4",
+                "14537": "14537 LPM Abril + Ciclo 1",
+                "14560": "14560 Prime Todas las ofertas",
+                "14566": "14566 Huevo grande gallina libre Cintazul 12 uni"
+            },
+            "linkText": "huevo-grande-de-gallina-libre-2-un",
+            "items": [
+                {
+                    "itemId": "88287",
+                    "name": "Huevos Grandes de Gallina Libre  12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/723594/Huevos-Grandes-de-Gallina-Libre--12-un.jpg?v=638319502847630000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1843237"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 4789,
+                                "ListPrice": 4789,
+                                "PriceWithoutDiscount": 4789,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "6569",
+            "productName": "Huevos Extra Blancos 12 un.",
+            "brand": "Cintazul",
+            "SkuData": [
+                "{\"6657\":{\"ref_id\":\"302673\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302673",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8865": "Shortcut Huevos - Huevos blancos 8865",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevos-extra-blancos-cintazul-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "6657",
+                    "name": "Huevos Extra Blancos 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/396654/Huevos-extra-blancos-Cintazul-12-unid.jpg?v=637469297373970000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302673"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 3769,
+                                "ListPrice": 3769,
+                                "PriceWithoutDiscount": 3769,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "82352",
+            "productName": "Huevos Gallina Libre 20 un.",
+            "brand": "Ecoterra",
+            "SkuData": [
+                "{\"82620\":{\"ref_id\":\"1819205\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":20,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1819205",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "6265": "MYPE Huevos mantequillas Perecibles 6265",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "10308": "10308 Todo Ciclo 4 + Cat fdm",
+                "10797": "10797 MiCupon_Huevos",
+                "11132": "11132  CAT FDM Completo",
+                "11143": "11143 Manjar, cremas y huevos FDM",
+                "11497": "11497 Todas las ofertas del ciclo 2 y FDM",
+                "11655": "11655 Todas las ofertas del ciclo 3 y FDM",
+                "13154": "13154 Todas las ofertas del FDM Diciembre",
+                "13218": "13218 Todas las ofertas de ciclo + FDM Enero 2024",
+                "13307": "13307 FDM + Ciclo desde 11 al 15 enero 2024",
+                "13394": "13394  Todo Ciclo + FDM 18 al 22 ene 2024",
+                "13514": "13514 - FDM + CICLO",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevos-gallina-libre-20-un",
+            "items": [
+                {
+                    "itemId": "82620",
+                    "name": "Huevos Gallina Libre 20 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/815314/Huevos-Gallina-Libre-20-un.jpg?v=638457628062500000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1819205"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 9359,
+                                "ListPrice": 9359,
+                                "PriceWithoutDiscount": 9359,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "6579",
+            "productName": "Huevos de Gallina Libre 12 un.",
+            "brand": "Gallina Feliz",
+            "SkuData": [
+                "{\"6667\":{\"ref_id\":\"1336632\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1336632",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "6265": "MYPE Huevos mantequillas Perecibles 6265",
+                "7803": "7803 Mype - Pequeños productores",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "9255": "9255 NP Landing Todo Nuestros Productores",
+                "9515": "9515 NP Todos los productos Mypes",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevos-gallina-feliz-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "6667",
+                    "name": "Huevos de Gallina Libre 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/368155/Huevos-Gallina-Feliz-12-unid.jpg?v=637413894840870000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1336632"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 4869,
+                                "ListPrice": 4869,
+                                "PriceWithoutDiscount": 4869,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "102526",
+            "productName": "Huevos 30 un.",
+            "brand": "Omega 3",
+            "SkuData": [
+                "{\"102795\":{\"ref_id\":\"1883748\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":30,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1883748",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8867": "Shortcut Huevos - Huevos codorniz y especiale 8867",
+                "10797": "10797 MiCupon_Huevos"
+            },
+            "linkText": "huev-omeg-gr-co-30",
+            "items": [
+                {
+                    "itemId": "102795",
+                    "name": "Huevos 30 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/436480/1883748-01_600352.jpg?v=637570579930630000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1883748"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 8829,
+                                "ListPrice": 8829,
+                                "PriceWithoutDiscount": 8829,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "56770",
+            "productName": "Huevos Grandes Color 6 un.",
+            "brand": "La Granja",
+            "SkuData": [
+                "{\"57086\":{\"ref_id\":\"1649053\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":6,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1649053",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-g-l-6-un-color-la-granja",
+            "items": [
+                {
+                    "itemId": "57086",
+                    "name": "Huevos Grandes Color 6 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/619329/Huevo-grande-La-Granja-color-6-unid.jpg?v=638089615059400000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1649053"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 2799,
+                                "ListPrice": 2799,
+                                "PriceWithoutDiscount": 2799,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "6588",
+            "productName": "Huevos Omega 3 Grandes Color Plus 12 un.",
+            "brand": "Omega 3",
+            "SkuData": [
+                "{\"6676\":{\"ref_id\":\"1086947\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1086947",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "6265": "MYPE Huevos mantequillas Perecibles 6265",
+                "8867": "Shortcut Huevos - Huevos codorniz y especiale 8867",
+                "10797": "10797 MiCupon_Huevos"
+            },
+            "linkText": "huevos-grandes-color-plus-omega-3-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "6676",
+                    "name": "Huevos Omega 3 Grandes Color Plus 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/415891/Huevos-Omega-3-Grandes-Color-Plus-12-unid.jpg?v=637479987956000000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1086947"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 4299,
+                                "ListPrice": 4299,
+                                "PriceWithoutDiscount": 4299,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "6577",
+            "productName": "Huevos Color de Gallina Libre 10 un.",
+            "brand": "Ecoterra",
+            "SkuData": [
+                "{\"6665\":{\"ref_id\":\"1544838\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":10,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1544838",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "6265": "MYPE Huevos mantequillas Perecibles 6265",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "10308": "10308 Todo Ciclo 4 + Cat fdm",
+                "10797": "10797 MiCupon_Huevos",
+                "11132": "11132  CAT FDM Completo",
+                "11143": "11143 Manjar, cremas y huevos FDM",
+                "11148": "11148 Todo exclusivas 19 al 25 de septiembre 2023",
+                "11497": "11497 Todas las ofertas del ciclo 2 y FDM",
+                "11655": "11655 Todas las ofertas del ciclo 3 y FDM",
+                "13154": "13154 Todas las ofertas del FDM Diciembre",
+                "13218": "13218 Todas las ofertas de ciclo + FDM Enero 2024",
+                "13307": "13307 FDM + Ciclo desde 11 al 15 enero 2024",
+                "13394": "13394  Todo Ciclo + FDM 18 al 22 ene 2024",
+                "13514": "13514 - FDM + CICLO",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevos-color-ecoterra-10-unid-gallinas-libres",
+            "items": [
+                {
+                    "itemId": "6665",
+                    "name": "Huevos Color de Gallina Libre 10 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/815249/Huevos-Color-de-Gallina-Libre-10-un.jpg?v=638457627922170000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1544838"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 5069,
+                                "ListPrice": 5069,
+                                "PriceWithoutDiscount": 5069,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "6568",
+            "productName": "Huevos Super Extra Blancos Cinta Azul 12 un.",
+            "brand": "Cintazul",
+            "SkuData": [
+                "{\"6656\":{\"ref_id\":\"1395552\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1395552",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8865": "Shortcut Huevos - Huevos blancos 8865",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-cinta-azul-12-unid-super-extra-blanco",
+            "items": [
+                {
+                    "itemId": "6656",
+                    "name": "Huevos Super Extra Blancos Cinta Azul 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/723953/Huevos-Super-Extra-Blancos-Cinta-Azul-12-un.jpg?v=638321096667330000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1395552"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 3929,
+                                "ListPrice": 3929,
+                                "PriceWithoutDiscount": 3929,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "75289",
+            "productName": "Huevos Color Gallina Libre 12 un.",
+            "brand": "La Castellana",
+            "SkuData": [
+                "{\"75546\":{\"ref_id\":\"1796258\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":1,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1796258",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevos-color-gallina-libre-la-castellana-12-unid",
+            "items": [
+                {
+                    "itemId": "75546",
+                    "name": "Huevos Color Gallina Libre 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/488534/Huevos-color-gallina-libre-12-un.jpg?v=637916047917470000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1796258"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 4519,
+                                "ListPrice": 4519,
+                                "PriceWithoutDiscount": 4519,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "6589",
+            "productName": "Huevos Extra Blancos 12 un.",
+            "brand": "Santa Marta",
+            "SkuData": [
+                "{\"6677\":{\"ref_id\":\"302679\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302679",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8865": "Shortcut Huevos - Huevos blancos 8865",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevos-extra-blancos-santa-marta-bandeja-12-unid",
+            "items": [
+                {
+                    "itemId": "6677",
+                    "name": "Huevos Extra Blancos 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/645600/Huevos-extra-blancos-Santa-Marta-12-unid.jpg?v=638170934262600000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302679"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 3799,
+                                "ListPrice": 3799,
+                                "PriceWithoutDiscount": 3799,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "86662",
+            "productName": "Pack Medianos Huevos Extra Blancos 30 un.",
+            "brand": "Yemita",
+            "SkuData": [
+                "{\"86932\":{\"ref_id\":\"568747\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":30,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "568747",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8865": "Shortcut Huevos - Huevos blancos 8865",
+                "10797": "10797 MiCupon_Huevos"
+            },
+            "linkText": "pack-mediano-blanco-30-un-yemita-2",
+            "items": [
+                {
+                    "itemId": "86932",
+                    "name": "Pack Medianos Huevos Extra Blancos 30 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/410558/Pack-mediano-huevo-extra-blanco-30-un.jpg?v=637469375702930000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "568747"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 8499,
+                                "ListPrice": 8499,
+                                "PriceWithoutDiscount": 8499,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "106337",
+            "productName": "Huevos Gallina Libre 18 un.",
+            "brand": "Gallina Feliz",
+            "SkuData": [
+                "{\"106602\":{\"ref_id\":\"1897091\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":18,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1897091",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "7803": "7803 Mype - Pequeños productores",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "9255": "9255 NP Landing Todo Nuestros Productores",
+                "9515": "9515 NP Todos los productos Mypes",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-g-l-18un-gallina-feliz-1897091",
+            "items": [
+                {
+                    "itemId": "106602",
+                    "name": "Huevos Gallina Libre 18 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/471689/Huevos-gallina-libre-18-un.jpg?v=637810540185170000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1897091"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 7299,
+                                "ListPrice": 7299,
+                                "PriceWithoutDiscount": 7299,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "86352",
+            "productName": "Huevos Color Mediano Pollita Feliz 10 un.",
+            "brand": "Gallina Feliz",
+            "SkuData": [
+                "{\"86622\":{\"ref_id\":\"1790759\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":10,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1790759",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "6265": "MYPE Huevos mantequillas Perecibles 6265",
+                "7803": "7803 Mype - Pequeños productores",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "9255": "9255 NP Landing Todo Nuestros Productores",
+                "9515": "9515 NP Todos los productos Mypes",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevos-pollita-feliz-gre-range-10un",
+            "items": [
+                {
+                    "itemId": "86622",
+                    "name": "Huevos Color Mediano Pollita Feliz 10 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/341406/Huevos-pollita-feliz-free-range-200-g-1-72166203.jpg?v=637274181630670000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1790759"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 3299,
+                                "ListPrice": 3299,
+                                "PriceWithoutDiscount": 3299,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "83488",
+            "productName": "Huevos de Codorniz 24 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"83751\":{\"ref_id\":\"1819841\",\"cart_limit\":\"2\",\"allow_notes\":false,\"allow_substitute\":false,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":24,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1819841",
+            "categoriesIds": [
+                "/1/19/693/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Codorniz/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "4039": "4039 Todos los productos Cuisine & CO",
+                "8867": "Shortcut Huevos - Huevos codorniz y especiale 8867",
+                "10797": "10797 MiCupon_Huevos",
+                "14635": "14635 Descuento Colaborador Campaña MMPP N°1 2024"
+            },
+            "linkText": "huevos-de-codorniz-24-un-cuisine-and-co-1819841",
+            "items": [
+                {
+                    "itemId": "83751",
+                    "name": "Huevos de Codorniz 24 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/641284/Huevos-de-codorniz-24-un.jpg?v=638155461242700000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1819841"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 2999,
+                                "ListPrice": 2999,
+                                "PriceWithoutDiscount": 2999,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "134750",
+            "productName": "Huevos Extra Grande Blanco Cuisine & Co 20 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"135044\":{\"ref_id\":\"1991093\",\"cart_limit\":\"12\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":20,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1991093",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "10797": "10797 MiCupon_Huevos"
+            },
+            "linkText": "hue-exg-b-20u-c-y-co",
+            "items": [
+                {
+                    "itemId": "135044",
+                    "name": "Huevos Extra Grande Blanco Cuisine & Co 20 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/816456/Huevo-Extra-Grande-Blanco-Cuisine---Co-20-un.jpg?v=638459352928930000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1991093"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 6299,
+                                "ListPrice": 6299,
+                                "PriceWithoutDiscount": 6299,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productId": "6585",
+            "productName": "Huevos Omega 3 Plus 6 un.",
+            "brand": "Omega 3",
+            "SkuData": [
+                "{\"6673\":{\"ref_id\":\"1500041\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":6,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1500041",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "6265": "MYPE Huevos mantequillas Perecibles 6265",
+                "8867": "Shortcut Huevos - Huevos codorniz y especiale 8867",
+                "10797": "10797 MiCupon_Huevos"
+            },
+            "linkText": "huevo-omega-3-bandeja-6-unid-tamano-grande-plus",
+            "items": [
+                {
+                    "itemId": "6673",
+                    "name": "Huevos Omega 3 Plus 6 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/164798/1500041.jpg?v=636150586411370000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1500041"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 2219,
+                                "ListPrice": 2219,
+                                "PriceWithoutDiscount": 2219,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "87876",
+            "productName": "Huevos Extra Blancos 12 un.",
+            "brand": "Yemita",
+            "SkuData": [
+                "{\"88147\":{\"ref_id\":\"302668\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302668",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8865": "Shortcut Huevos - Huevos blancos 8865",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-extra-blanco-12-un-yemita",
+            "items": [
+                {
+                    "itemId": "88147",
+                    "name": "Huevos Extra Blancos 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/342011/Huevos-extra-blancos-12-un-1-80122.jpg?v=637279437831300000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302668"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 3999,
+                                "ListPrice": 3999,
+                                "PriceWithoutDiscount": 3999,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "123423",
+            "productName": "Huevos Extra Color Coliumo 18 un.",
+            "brand": "Coliumo",
+            "SkuData": [
+                "{\"123710\":{\"ref_id\":\"1956916\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":18,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1956916",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-premium-extra-color-18un-coliumo-1956916",
+            "items": [
+                {
+                    "itemId": "123710",
+                    "name": "Huevos Extra Color Coliumo 18 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/757763/Huevos-Extra-Color-Coliumo-18-un.jpg?v=638381574233170000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1956916"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 5719,
+                                "ListPrice": 5719,
+                                "PriceWithoutDiscount": 5719,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "88024",
+            "productName": "Huevos Premium Grandes Color 12 un.",
+            "brand": "Coliumo",
+            "SkuData": [
+                "{\"88295\":{\"ref_id\":\"1842648\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1842648",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8866": "Shortcut Huevos - Huevos color 8866",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-grande-color-12-un",
+            "items": [
+                {
+                    "itemId": "88295",
+                    "name": "Huevos Premium Grandes Color 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/488536/Huevos-premium-grande-color-12-un.jpg?v=637916047923870000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1842648"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 3679,
+                                "ListPrice": 3679,
+                                "PriceWithoutDiscount": 3679,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "134755",
+            "productName": "Huevos Extra Color Gallina Libre Cuisine & Co 20 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"135054\":{\"ref_id\":\"1991096\",\"cart_limit\":\"12\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":20,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1991096",
+            "categoriesIds": [
+                "/1/19/840/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina Libre/"
+            ],
+            "productClusters": {},
+            "linkText": "huevo-ext-col-gall-libre-20-u-cuisine-and-co-1991096",
+            "items": [
+                {
+                    "itemId": "135054",
+                    "name": "Huevos Extra Color Gallina Libre Cuisine & Co 20 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/816463/Huevo-Extra-Color-Gallina-Libre-Cuisine---Co-30-un.jpg?v=638459352961130000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1991096"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 7799,
+                                "ListPrice": 7799,
+                                "PriceWithoutDiscount": 7799,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productId": "108538",
+            "productName": "Huevos Grandes Color Gallinas de Libre Pastoreo 12 un.",
+            "brand": "Cintazul",
+            "SkuData": [
+                "{\"108806\":{\"ref_id\":\"1904094\",\"cart_limit\":\"2\",\"allow_notes\":false,\"allow_substitute\":false,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1904094",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-grande-col-lib-past-cintazul-12un-1904094",
+            "Origen": [
+                "Otros"
+            ],
+            "items": [
+                {
+                    "itemId": "108806",
+                    "name": "Huevos Grandes Color Gallinas de Libre Pastoreo 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/504901/Huevos-grandes-color-gallinas-de-libre-pastoreo-12-un.jpg?v=637965196725370000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1904094"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 5199,
+                                "ListPrice": 5199,
+                                "PriceWithoutDiscount": 5199,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Origen",
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "45535",
+            "productName": "Huevos 12 un.",
+            "brand": "Ecoterra",
+            "SkuData": [
+                "{\"45774\":{\"ref_id\":\"1664028\",\"cart_limit\":\"2\",\"allow_notes\":false,\"allow_substitute\":false,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1664028",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "6265": "MYPE Huevos mantequillas Perecibles 6265",
+                "8868": "8868 Shortcut Huevos - Huevos de Gallina Libre",
+                "9348": "9348 NP Desayuno para mama DDM",
+                "10797": "10797 MiCupon_Huevos",
+                "13154": "13154 Todas las ofertas del FDM Diciembre",
+                "13218": "13218 Todas las ofertas de ciclo + FDM Enero 2024",
+                "13307": "13307 FDM + Ciclo desde 11 al 15 enero 2024",
+                "13394": "13394  Todo Ciclo + FDM 18 al 22 ene 2024",
+                "13514": "13514 - FDM + CICLO",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-ecoterra-12-unid",
+            "items": [
+                {
+                    "itemId": "45774",
+                    "name": "Huevos 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/296919/Principal-44416.jpg?v=636888726730230000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1664028"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 5149,
+                                "ListPrice": 5149,
+                                "PriceWithoutDiscount": 5149,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "123422",
+            "productName": "Huevos Súper Blanco Coliumo 20 un.",
+            "brand": "Coliumo",
+            "SkuData": [
+                "{\"123711\":{\"ref_id\":\"1956918\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":30,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1956918",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-premium-super-blanco-20un-coliumo-1956918",
+            "items": [
+                {
+                    "itemId": "123711",
+                    "name": "Huevos Súper Blanco Coliumo 20 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/757772/Huevos-Super-Blanco-Coliumo-20-un.jpg?v=638381574253600000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1956918"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 6749,
+                                "ListPrice": 6749,
+                                "PriceWithoutDiscount": 6749,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "134754",
+            "productName": "Huevos Grande Color Gallina Libre Cuisine & Co 30 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"135050\":{\"ref_id\":\"1991095\",\"cart_limit\":\"12\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":30,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1991095",
+            "categoriesIds": [
+                "/1/19/840/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina Libre/"
+            ],
+            "productClusters": {},
+            "linkText": "huevo-gra-col-gall-libre-30-u-cuisine-and-co-1991095",
+            "items": [
+                {
+                    "itemId": "135050",
+                    "name": "Huevos Grande Color Gallina Libre Cuisine & Co 30 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/816460/Huevo-Grande-Color-Gallina-Libre-Cuisine---Co-30-un.jpg?v=638459352949630000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1991095"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 10649,
+                                "ListPrice": 10649,
+                                "PriceWithoutDiscount": 10649,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productId": "87878",
+            "productName": "Huevos Grandes Color 12 un.",
+            "brand": "Yemita",
+            "SkuData": [
+                "{\"88149\":{\"ref_id\":\"302671\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":12,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "302671",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "8866": "Shortcut Huevos - Huevos color 8866",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-grande-color-12-un-yemita",
+            "items": [
+                {
+                    "itemId": "88149",
+                    "name": "Huevos Grandes Color 12 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/342012/Huevos-grandes-color-12-un-1-80125.jpg?v=637279437835300000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "302671"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 3889,
+                                "ListPrice": 3889,
+                                "PriceWithoutDiscount": 3889,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "134757",
+            "productName": "Huevos Extra Grande Color Cuisine & Co 20 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"135052\":{\"ref_id\":\"1991097\",\"cart_limit\":\"12\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":20,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1991097",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "10797": "10797 MiCupon_Huevos"
+            },
+            "linkText": "huevo-ext-grande-color-20-u-cuisine-and-co-1991097",
+            "items": [
+                {
+                    "itemId": "135052",
+                    "name": "Huevos Extra Grande Color Cuisine & Co 20 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/816464/Huevo-Extra-Grande-Color-Cuisine---Co-20-un.jpg?v=638459352972230000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1991097"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 6649,
+                                "ListPrice": 6649,
+                                "PriceWithoutDiscount": 6649,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productId": "56460",
+            "productName": "Huevos de Codorniz 24 un.",
+            "brand": "Talagante",
+            "SkuData": [
+                "{\"56778\":{\"ref_id\":\"507518\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":24,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "507518",
+            "categoriesIds": [
+                "/1/19/693/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Codorniz/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "7803": "7803 Mype - Pequeños productores",
+                "8867": "Shortcut Huevos - Huevos codorniz y especiale 8867",
+                "9255": "9255 NP Landing Todo Nuestros Productores",
+                "9515": "9515 NP Todos los productos Mypes",
+                "10685": "10685 ofertas Mypes (ciclo 1)",
+                "10691": "10691 ofertas Mypes (ciclo 2)",
+                "10797": "10797 MiCupon_Huevos",
+                "13365": "13365 MYPE - Todos productos mypes"
+            },
+            "linkText": "huevo-codorniz-24-un-talagante",
+            "Origen": [
+                "Mype"
+            ],
+            "items": [
+                {
+                    "itemId": "56778",
+                    "name": "Huevos de Codorniz 24 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/473858/Huevo-de-codorniz-Talagante-24-unid.jpg?v=637823452943070000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "507518"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 2999,
+                                "ListPrice": 2999,
+                                "PriceWithoutDiscount": 2999,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Origen",
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "20202",
+            "productName": "Huevos de Codorniz 24 un.",
+            "brand": "Don Guillermo",
+            "SkuData": [
+                "{\"20526\":{\"ref_id\":\"271103\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":24,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "271103",
+            "categoriesIds": [
+                "/1/19/693/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Codorniz/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "7803": "7803 Mype - Pequeños productores",
+                "8867": "Shortcut Huevos - Huevos codorniz y especiale 8867",
+                "9250": "9250 Cocktail Nuestros Productores Mypes",
+                "9255": "9255 NP Landing Todo Nuestros Productores",
+                "9515": "9515 NP Todos los productos Mypes",
+                "10685": "10685 ofertas Mypes (ciclo 1)",
+                "10691": "10691 ofertas Mypes (ciclo 2)",
+                "10797": "10797 MiCupon_Huevos",
+                "13365": "13365 MYPE - Todos productos mypes"
+            },
+            "linkText": "huevos-de-codorniz-don-guillermo-24-unid",
+            "Origen": [
+                "Mype"
+            ],
+            "items": [
+                {
+                    "itemId": "20526",
+                    "name": "Huevos de Codorniz 24 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/183018/271103.jpg?v=636406467434800000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "271103"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 2939,
+                                "ListPrice": 2939,
+                                "PriceWithoutDiscount": 2939,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Origen",
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "134756",
+            "productName": "Huevos Mediano Blanco Cuisine & Co 30 un.",
+            "brand": "Cuisine & Co",
+            "SkuData": [
+                "{\"135051\":{\"ref_id\":\"1991094\",\"cart_limit\":\"12\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":30,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1991094",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "10797": "10797 MiCupon_Huevos",
+                "14116": "14116 AA Coup 202403B1_huevos"
+            },
+            "linkText": "huevo-mediano-blanco-30-u-cuisine-and-co-1991094",
+            "items": [
+                {
+                    "itemId": "135051",
+                    "name": "Huevos Mediano Blanco Cuisine & Co 30 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/816458/Huevo-Mediano-Blanco-Cuisine---Co-30-un.jpg?v=638459352939170000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1991094"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 8099,
+                                "ListPrice": 8099,
+                                "PriceWithoutDiscount": 8099,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productId": "90856",
+            "productName": "Huevos duros de Codorniz 18 un.",
+            "brand": "Doña Blanca",
+            "SkuData": [
+                "{\"91120\":{\"ref_id\":\"1845774\",\"cart_limit\":\"2\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":18,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1845774",
+            "categoriesIds": [
+                "/1/19/693/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Codorniz/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "7803": "7803 Mype - Pequeños productores",
+                "8867": "Shortcut Huevos - Huevos codorniz y especiale 8867",
+                "9250": "9250 Cocktail Nuestros Productores Mypes",
+                "9255": "9255 NP Landing Todo Nuestros Productores",
+                "9515": "9515 NP Todos los productos Mypes",
+                "10685": "10685 ofertas Mypes (ciclo 1)",
+                "10691": "10691 ofertas Mypes (ciclo 2)",
+                "10797": "10797 MiCupon_Huevos",
+                "13365": "13365 MYPE - Todos productos mypes"
+            },
+            "linkText": "huevos-duros-de-codorniz-18-un",
+            "Origen": [
+                "Mype"
+            ],
+            "items": [
+                {
+                    "itemId": "91120",
+                    "name": "Huevos duros de Codorniz 18 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/352298/Huevos-duros-de-codorniz-18-un-1-197362408.jpg?v=637339123369370000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1845774"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 4999,
+                                "ListPrice": 4999,
+                                "PriceWithoutDiscount": 4999,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Origen",
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "127898",
+            "productName": "Huevo Yemita Extra Blanco 18 un.",
+            "brand": "Yemita",
+            "SkuData": [
+                "{\"128191\":{\"ref_id\":\"1967857\",\"cart_limit\":\"12\",\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":18,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1967857",
+            "categoriesIds": [
+                "/1/19/692/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Gallina/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "10797": "10797 MiCupon_Huevos",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch"
+            },
+            "linkText": "huevo-yemita-extra-blanco-18un-1967857",
+            "items": [
+                {
+                    "itemId": "128191",
+                    "name": "Huevo Yemita Extra Blanco 18 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/812291/Huevo-Yemita-Extra-Blanco-18-un.jpg?v=638452638097900000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1967857"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 5599,
+                                "ListPrice": 5599,
+                                "PriceWithoutDiscount": 5599,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productId": "108037",
+            "productName": "Huevos de Codorniz 24 un.",
+            "brand": "Doña Blanca",
+            "SkuData": [
+                "{\"108304\":{\"ref_id\":\"1902077\",\"cart_limit\":\"2\",\"allow_notes\":false,\"allow_substitute\":false,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":24,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1902077",
+            "categoriesIds": [
+                "/1/19/693/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/Huevos de Codorniz/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "4175": "4175 Productos Nuevos 2022",
+                "7803": "7803 Mype - Pequeños productores",
+                "9250": "9250 Cocktail Nuestros Productores Mypes",
+                "9255": "9255 NP Landing Todo Nuestros Productores",
+                "9515": "9515 NP Todos los productos Mypes",
+                "10685": "10685 ofertas Mypes (ciclo 1)",
+                "10691": "10691 ofertas Mypes (ciclo 2)",
+                "10797": "10797 MiCupon_Huevos",
+                "13365": "13365 MYPE - Todos productos mypes"
+            },
+            "linkText": "huevos-de-codorniz-dona-blanca-24un-1902077",
+            "Origen": [
+                "Mype"
+            ],
+            "items": [
+                {
+                    "itemId": "108304",
+                    "name": "Huevos de Codorniz 24 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/681876/Huevos-de-codorniz-24-un.jpg?v=638230533481070000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1902077"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 3169,
+                                "ListPrice": 3169,
+                                "PriceWithoutDiscount": 3169,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Origen",
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "123819",
+            "productName": "Huevos Regenerativos 10 un.",
+            "brand": "Ecoterra",
+            "SkuData": [
+                "{\"124106\":{\"ref_id\":\"1958063\",\"cart_limit\":\"2\",\"allow_notes\":false,\"allow_substitute\":false,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":10,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1958063",
+            "categoriesIds": [
+                "/1/19/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "2835": "2835 VER TODO MUNDO BIO NATURA",
+                "10797": "10797 MiCupon_Huevos",
+                "10989": "10989 catálogo mundo bio natura",
+                "10990": "10990 $18.000 en productos Mundo Bio Natura",
+                "11073": "11073 DESC MUNDO BIO COLABORADOR",
+                "11148": "11148 Todo exclusivas 19 al 25 de septiembre 2023",
+                "11279": "11279 MILES DE PRODUCTOS CON HASTA",
+                "11581": "11581  Todo Cyber Jumbo",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch",
+                "14425": "14425 Todo Mundo Bio Natura",
+                "14537": "14537 LPM Abril + Ciclo 1"
+            },
+            "linkText": "huevos-regenerativos-10un-ecoterra-1958063",
+            "items": [
+                {
+                    "itemId": "124106",
+                    "name": "Huevos Regenerativos 10 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/815502/Huevos-Regenerativos-10-un.jpg?v=638457628909130000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1958063"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 5390,
+                                "ListPrice": 5390,
+                                "PriceWithoutDiscount": 5390,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        },
+        {
+            "productId": "123817",
+            "productName": "Huevos Circulares 10 un.",
+            "brand": "Ecoterra",
+            "SkuData": [
+                "{\"124104\":{\"ref_id\":\"1958064\",\"cart_limit\":\"2\",\"allow_notes\":false,\"allow_substitute\":false,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"measurement_unit_un\":\"un\",\"unit_multiplier_un\":10,\"measurement_unit_selector\":false,\"release_data\":{\"date_release\":\"06-12-2016 00:00\",\"date_release_end\":\"05-01-2017 00:00\",\"is_new\":false},\"promotionData\":{\"promotionName\":\"\",\"promotionShortDescription\":\"\",\"promotionDescription\":\"\",\"promotionFeature\":\"\"}}}"
+            ],
+            "productReference": "1958064",
+            "categoriesIds": [
+                "/1/19/"
+            ],
+            "categories": [
+                "/Lácteos/Huevos/"
+            ],
+            "productClusters": {
+                "1022": "Google Shopping",
+                "1059": "All Products",
+                "1245": "SCRAPERLacteos",
+                "2835": "2835 VER TODO MUNDO BIO NATURA",
+                "10797": "10797 MiCupon_Huevos",
+                "10989": "10989 catálogo mundo bio natura",
+                "10990": "10990 $18.000 en productos Mundo Bio Natura",
+                "11073": "11073 DESC MUNDO BIO COLABORADOR",
+                "11148": "11148 Todo exclusivas 19 al 25 de septiembre 2023",
+                "11279": "11279 MILES DE PRODUCTOS CON HASTA",
+                "11581": "11581  Todo Cyber Jumbo",
+                "13639": "13639 Fondo de Surtido Arma tu Brunch",
+                "14425": "14425 Todo Mundo Bio Natura",
+                "14537": "14537 LPM Abril + Ciclo 1"
+            },
+            "linkText": "huevos-circulares-10un-ecoterra-1958064",
+            "items": [
+                {
+                    "itemId": "124104",
+                    "name": "Huevos Circulares 10 un.",
+                    "unitMultiplier": 1,
+                    "measurementUnit": "un",
+                    "images": [
+                        {
+                            "imageUrl": "https://jumbo.vtexassets.com/arquivos/ids/815503/Huevos-Circulares-10-un.jpg?v=638457628914330000",
+                            "imageTag": ""
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "1958064"
+                        }
+                    ],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Jumbo Chile",
+                            "commertialOffer": {
+                                "Price": 5390,
+                                "ListPrice": 5390,
+                                "PriceWithoutDiscount": 5390,
+                                "AvailableQuantity": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Filtros": [
+                "Producto Nuevo"
+            ],
+            "Producto Nuevo": [
+                "Producto antiguo"
+            ]
+        }
+    ],
+    "recordsFiltered": 38,
+    "operator": "and"
+}

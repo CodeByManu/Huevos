@@ -1,0 +1,27 @@
+Buscar hitsPerPage, para saber cuantos productos hay en total
+
+✅ Jumbo = "https://www.jumbo.cl/lacteos/huevos"
+✅ Unimarc = "https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/huevos"
+(ver pages) ✅ Lider = "https://www.lider.cl/supermercado/category/Frescos_y_L%C3%A1cteos/Huevos_y_Mantequillas/Huevos?page=1&hitsPerPage=64"
+✅ OkMarket = "https://www.rappi.cl/tiendas/481-ok-market/lacteos-refrigerados-y-huevos/huevos"
+✅ Oxxo = "https://delivery.oxxo.cl/pedir/category/yFcFkSTjmbCuFKekJ?page=1"
+✅ Santa Isabel = "https://www.santaisabel.cl/lacteos/huevos"
+✅ Santa Marta:
+    - Blancos: "https://www.huevossantamarta.cl/productos/linea/1/huevos-blancos"
+    - Color: "https://www.huevossantamarta.cl/productos/linea/2/huevos-color"
+    - Libre: "https://www.huevossantamarta.cl/productos/linea/3/huevos-gallina-libre"
+✅ Coliumo = "https://huevoscoliumo.cl/tienda/?products-per-page=all"
+✅ Agricovial = 
+    - Blancos: "https://www.agricovial.cl/categoria-producto/huevo-blanco/"
+    - Color: "https://www.agricovial.cl/categoria-producto/huevo-color/"
+✅ CentralMayorista = "https://www.centralmayorista.cl/ca/lacteos-refrigerados-y-huevos/huevos/07/0702?gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpZL-n3KY0WL9suIqdt0jEW9WTQdILvh23stWZn65ORF4jkYmck4fRUaAtDpEALw_wcB"
+✅ EcoTerra = "https://ecoterra.cl/collections/huevos"
+✅ CintAzul:
+    - Blancos: "https://tienda.cintazul.cl/categoria-producto/huevos-blancos/"
+    - Color: "https://tienda.cintazul.cl/categoria-producto/huevos-color/"
+    - Libre: "https://tienda.cintazul.cl/categoria-producto/huevos-gallina-libre/"
+
+Santa Elvira: No hay productos con precios en la página.
+La Granja: Los links no sirve.
+Yemita: Lo mismo que La Granja.
+*El scrapper de Lider ya saca los precios de Yemita y La Granja.
